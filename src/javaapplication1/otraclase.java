@@ -13,4 +13,15 @@ public class otraclase {
     
    String variable;
    
+   String variable2;
+   
+   String Variable3;
+   
+   public void hola()
+   {
+        System.out.println("otra linea clase");
+        System.out.println("otra linea clase2");
+
+   }
+   
 }

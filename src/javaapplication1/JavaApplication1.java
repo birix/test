@@ -27,6 +27,8 @@ public class JavaApplication1 {
         
         o.hola();
         
+        System.out.println("este es otra despue principal");
+        
         }
     
 }

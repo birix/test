@@ -20,6 +20,9 @@ public class JavaApplication1 {
         System.out.println("hola mundo");
         
         System.out.print("otra linea2");
-    }
+        
+        System.out.println("este es otra");
+        
+        }
     
 }

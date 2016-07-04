@@ -23,6 +23,10 @@ public class JavaApplication1 {
         
         System.out.println("este es otra");
         
+        otraclase o=  new otraclase();
+        
+        o.hola();
+        
         }
     
 }

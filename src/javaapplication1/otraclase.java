@@ -17,10 +17,19 @@ public class otraclase {
    
    String Variable3;
    
+  
+   
    public void hola()
    {
         System.out.println("otra linea clase");
         System.out.println("otra linea clase2");
+        
+        otraclase2 o2= new otraclase2();
+        o2.hola();
+        
+        o2.hola();
+        
+        /*nueva modificacion*/
 
    }
    
